@@ -2,7 +2,7 @@ Guidelines and tips for optimizing the resume, LinkedIn profile, and portfolio t
 
 # Resume
 
-## Include words from job description to ben
+## Include words from job description
 
 - include them into objective and into technical knowledge
 
@@ -24,7 +24,7 @@ Guidelines and tips for optimizing the resume, LinkedIn profile, and portfolio t
 
 ## Remove the word “I”
 
-- Any sentence that starts with "I" like `["I wish", "I have", "I'm familiar", "I was hired"]`, as all thoses sentence does not really tell the recruiter anything and he/she wouldn't care, so you're like adding extra weight to the resume but you only have a few seconds to impress the recruiter, therefore as a recruiter will only be interested and wanna know "WHAT YOU CAN OFFER US" and "WHAT TYPE OF ASSET YOU WOULD BE", so instead like writing:
+- Any sentence that starts with "I" like `["I wish", "I have", "I'm familiar", "I was hired"]`, as all those sentence does not really tell the recruiter anything and he/she wouldn't care, so you're like adding extra weight to the resume but you only have a few seconds to impress the recruiter, therefore as a recruiter will only be interested and wanna know "WHAT YOU CAN OFFER US" and "WHAT TYPE OF ASSET YOU WOULD BE", so instead like writing:
   `["I wish to obtain a web design position" => "Professional web designer with five years of experience"]`
   thus get to the point right a way.
 
